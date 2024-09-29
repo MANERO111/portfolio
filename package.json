@@ -43,8 +43,8 @@
   },
   "devDependencies": {
     "react-router-dom": "^6.21.1"
-  }
-  "engines": {
+  },
+"engines": {
   "node": "16.x"
 }
 
